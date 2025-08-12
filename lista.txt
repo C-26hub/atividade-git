@@ -1,0 +1,12 @@
+Nome: Cecilia
+Data: 12/08/2025
+Objetivo: aprender Git e Github no celular >> lista.txt
+cat lista.txt
+git add lista.txt
+git commit -m Adicionando lista.txt com dados do aluno
+git push origin main
+git add lista.txt
+echo Data: 12/08/2025 >> lista.txt
+cat lista.txt
+echo Objetivo: aprender Git e Github no celular
+Data: 12/08/2025
